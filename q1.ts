@@ -1,0 +1,7 @@
+console.log("hello jan")
+let name1 = ("luqman")
+console.log (name1)
+let age = ("37")
+console.log (name1,age)
+let qa = ("true")
+console.log (name1,age,qa)
